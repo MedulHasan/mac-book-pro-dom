@@ -1,0 +1,26 @@
+.main-section {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 150px;
+    margin-top: 50px;
+}
+.custom {
+    width: 600px;
+}
+.price {
+    font-weight: 700;
+}
+.price .best-price tr td{
+    border-bottom: 0.1px solid;
+}
+.total-price tr td{
+    border-bottom: 1.5px solid;
+}
+.error  {
+    display: block;
+    color: red;
+}
+.footer {
+    margin: 0 150px;
+    margin-bottom: 50px;
+}
